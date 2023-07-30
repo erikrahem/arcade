@@ -1,7 +1,7 @@
 # Arcade
 
 
---Main--
+### Main
 <br>
 Lobby
 <br>
@@ -12,12 +12,19 @@ Room
 Friends List
 
 
---Play--
+### Play
+<br>
 Dice
+<br>
 Fishing
 
---Games--
+
+### Games
+<br>
 Chessboard
+<br>
 Risk
+<br>
 Snake MP
+<br>
 Texas hold 'em (Poker Client)
