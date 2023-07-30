@@ -2,7 +2,6 @@
 
 
 ### Main
-<br>
 Lobby
 <br>
 Chat
@@ -13,14 +12,12 @@ Friends List
 
 
 ### Play
-<br>
 Dice
 <br>
 Fishing
 
 
 ### Games
-<br>
 Chessboard
 <br>
 Risk
